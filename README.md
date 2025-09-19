@@ -1,5 +1,5 @@
 <h1 align="center">Heyoo, This is Suvham Kumar 👋</h1>
-<h3 align="center">Full-Stack Developer | Angular | .NET Core | SQL | Cloud | Data Science Enthusiast</h3>
+<h3 align="center">Full-Stack Developer | Angular | .NET Core | SQL | Cloud </h3>
 
 <p align="left">
   <a href="https://twitter.com/suvham_kumar_" target="blank">
